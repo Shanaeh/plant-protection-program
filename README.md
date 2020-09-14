@@ -13,7 +13,7 @@ It also checks the soil moisture sensor and water sensor and will activate the L
 
 1. dht11 sensor (temperature and humidity, blue)
 2. analog HOYA water sensor
-3. analog Kuman soil moisutre sensor (though any type will work)
+3. analog Kuman soil moisture sensor (though any type will work)
 4. SunFounder LCD2004 Module, 20X4 characters, intended for Arduino
 5. mcp3008 (for interpreting analog to digital)
 6. led light to activate if plant needs water or if there's a significant leak
