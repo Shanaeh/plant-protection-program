@@ -1,6 +1,6 @@
 #**Project: Plant Protection Program**
 
-#**Solo Team: Shana Hadi**
+#**For: Stanford CS107e: Systems from the Ground Up, with Chris Gregg**
 
 #**Brief Overview**
 
@@ -65,3 +65,4 @@ At the beginning of the process, I was writing in quasi-binary by turning on/off
 Chris was helpful in helping me understand where to start in the data sheet, and he pointed out that once I am able to translate a data sheet into specific commands for my pi, I'll be able to do it in the future with new hardware. This process was quite a wave of emotions (I was so glad just to see the cursor blink on after 32 quasi-binary instructions), but ultimately very rewarding. 
 
 I feel like I've truly built this lcd library (and this general project of hardware/software) from the ground up! This was really helpful so I could recognize how much I've learned over the course of the quarter and how I can use it in the future, in classes or for my own side projects. Yay, and thank you!
+
