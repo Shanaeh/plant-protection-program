@@ -1,1 +1,1 @@
-#**This folder contains my library for the Raspberry Pi A+ bare-metal operating system, which I wrote in C over the course of eight weeks for cs107e.**
+# This folder contains my library for the Raspberry Pi A+ bare-metal operating system, which I wrote in C over the course of eight weeks for cs107e in Autumn 2018. Visit the course website for more information. http://cs107e.github.io/
